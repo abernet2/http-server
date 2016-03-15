@@ -1,3 +1,4 @@
+# DEPRECATED, USE CONTROLLER INSTEAD
 GET_HEADER = "HTTP/1.1 200 Ok\n\n"
 require_relative 'users'
 
